@@ -16,9 +16,11 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
 ---
 
 #### Online persona :
-
-![GitHub watchers](https://img.shields.io/github/watchers/Shadabdullah/Shadabdullah?style=social)
-
+[![LinkedIn Badge](https://img.shields.io/badge/Leet-Code-informational?style=flat&logo=Leetcode&logoColor=FFFFFF&color=4AB197)](https://leetcode.com/ShadAbdullah/)
+[![Codeforces Badge](https://img.shields.io/badge/Code-Forces-informational?style=flat&logo=Codeforces&logoColor=FFFFFF&color=4AB197)](#)
+[![HackerRank Badge](https://img.shields.io/badge/Hacker-Rank-informational?style=flat&logo=HackerRank&logoColor=FFFFFF&color=4AB197)](#)
+[![Medium Badge](https://img.shields.io/badge/Medium-Blog-informational?style=flat&logo=Medium&logoColor=FFFFFF&color=4AB197)](#)
+[![Discord Badge](https://img.shields.io/badge/Discord-Server-informational?style=flat&logo=Discord&logoColor=FFFFFF&color=4AB197)](#)
 
 
 
@@ -29,7 +31,7 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
 
 #### Languages and Tools :
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+
 
 ---
 #### Stats :
