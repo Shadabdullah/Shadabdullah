@@ -5,7 +5,7 @@
 Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lands of India, conjuring code with passion and precision, having an insatiable appetite for knowledge, and an unwavering dedication to quality.
 
   ♟ During my leisure hours, I indulge in the intricate game of chess and conquer perplexing challenges on Leetcode.
-  <br>📙I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers .<br>🗣️ On a quest to master the art of storytelling .
+  <br>📙I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers .<br>🗣️ On a quest to master the art of Writing .
 
 ---
 #### Get in touch :
@@ -29,10 +29,17 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
 
 ---
 
-#### Languages and Tools :
+#### Tech and Tools :
 
 
+![Python](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=Python&logoColor=FFFFFF&color=4AB197)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-informational?style=flat&logo=JavaScript&logoColor=FFFFFF&color=4AB197)
+![Python](https://img.shields.io/badge/HTML5-Language-informational?style=flat&logo=HTML5&logoColor=FFFFFF&color=4AB197)
+![Python](https://img.shields.io/badge/CSS3-Language-informational?style=flat&logo=CSS3&logoColor=FFFFFF&color=4AB197)
 
+![React](https://img.shields.io/badge/React-Js-informational?style=flat&logo=React&logoColor=FFFFFF&color=4AB197)
+![React](https://img.shields.io/badge/React-Native-informational?style=flat&logo=React&logoColor=FFFFFF&color=4AB197)
+![MySQL](https://img.shields.io/badge/MySQL-DBMS-informational?style=flat&logo=MySQL&logoColor=FFFFFF&color=4AB197)
 ---
 #### Stats :
 
