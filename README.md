@@ -7,12 +7,17 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
    🔥During my leisure hours, I indulge in the intricate game of chess and conquer perplexing challenges on Leetcode.
   <br>🔥I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers .<br> 🔥On a quest to master the art of Writing .
   
+  ![GitHub watchers](https://img.shields.io/github/watchers/Shadabdullah/Shadabdullah?color=4AB197&logo=github)
+  
   --- 
   #### Some Favorite Quotes 
   
-  Those who have failed to work toward the truth have missed the purpose of living - Buddha
+  - Those who have failed to work toward the truth have missed the purpose of living - Buddha
   
-  Knowledge isn’t power until it is applied. ― Dale Carnegie 
+ - Knowledge isn’t power until it is applied. ― Dale Carnegie 
+  
+  - Who are those people by whom you wish to be admired? <br> Are they not these whom you are in the habit of saying that they are mad? <br>What then? Do you wish to be admired by the mad?”
+— Epictetus
 
 ---
 #### Get in touch :
