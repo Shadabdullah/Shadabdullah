@@ -43,7 +43,7 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
 ---
 #### Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shadabdullah&background=000000&border=EBEBEB&stroke=EBEBEB&ring=4AB197&fire=4AB197&currStreakNum=4AB197&sideNums=4AB197&currStreakLabel=4AB197&sideLabels=EBEBEB&dates=EBEBEB)](https://git.io/streak-stats)
 
 <a href="https://github.com/Shadabdullah">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabdullah&hide=html,css&title_color=4AB197&text_color=FFFFFF&icon_color=4AB197&bg_color=000000" />
