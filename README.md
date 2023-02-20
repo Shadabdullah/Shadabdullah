@@ -10,7 +10,7 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
 ---
 #### Get in touch :
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)]([#Link](https://www.linkedin.com/in/shad-abdullah-2622561b6))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/shad-abdullah-2622561b6)
 
 
 ---
