@@ -22,9 +22,9 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <a href="https://github.com/Shadabdullah">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabdullah&hide=html,css&title_color=379237&text_color=379237&icon_color=379237&bg_color=0000" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabdullah&hide=html,css&title_color=FD841F&text_color=FFFFFF&icon_color=FD841F&bg_color=000000" />
 </a>
 
 <a href="https://github.com/Shadabdullah">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Shadabdullah&show_icons=true&line_height=27&count_private=true&title_color=379237&text_color=379237&icon_color=379237&bg_color=0000" alt="ShadAbdullah's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Shadabdullah&show_icons=true&line_height=27&count_private=true&title_color=FD841F&text_color=FFFFFF&icon_color=FD841F&bg_color=000000" alt="ShadAbdullah's GitHub Stats" />
 </a>
