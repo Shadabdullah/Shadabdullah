@@ -7,7 +7,7 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
    🔥During my leisure hours, I indulge in the intricate game of chess and conquer perplexing challenges on Leetcode.
   <br>🔥I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers .<br> 🔥On a quest to master the art of Writing .
   
-  ![GitHub watchers](https://img.shields.io/github/watchers/Shadabdullah/Shadabdullah?color=4AB197&logo=github)
+ 
   
   --- 
   #### Some Favorite Quotes 
@@ -18,6 +18,7 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
   
   - Who are those people by whom you wish to be admired? <br> Are they not these whom you are in the habit of saying that they are mad? <br>What then? Do you wish to be admired by the mad?”
 — Epictetus
+
 
 ---
 #### Get in touch :
@@ -54,6 +55,10 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
 [![MySQL](https://img.shields.io/badge/MySQL-DBMS-informational?style=flat&logo=MySQL&logoColor=FFFFFF&color=4AB197)](#)
 ---
 #### Stats :
+
+![GitHub watchers](https://img.shields.io/github/watchers/Shadabdullah/Shadabdullah?color=4AB197&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/Shadabdullah?color=4AB197&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/Shadabdullah?color=4AB197&logo=github)
 
 
 <a href="https://github.com/Shadabdullah">
