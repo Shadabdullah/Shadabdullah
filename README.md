@@ -11,12 +11,12 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
 #### Get in touch :
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/shad-abdullah-2622561b6)
-
+[![Lichess Badge](https://img.shields.io/badge/Lichess-ID:ShadAbdullah-informational?style=flat&logo=Lichess&logoColor=FFFFFF&color=4AB197)](#)
 
 ---
 
 #### Online persona :
-[![LinkedIn Badge](https://img.shields.io/badge/Leet-Code-informational?style=flat&logo=Leetcode&logoColor=FFFFFF&color=4AB197)](https://leetcode.com/ShadAbdullah/)
+[![LeetCode Badge](https://img.shields.io/badge/Leet-Code-informational?style=flat&logo=Leetcode&logoColor=FFFFFF&color=4AB197)](https://leetcode.com/ShadAbdullah/)
 [![Codeforces Badge](https://img.shields.io/badge/Code-Forces-informational?style=flat&logo=Codeforces&logoColor=FFFFFF&color=4AB197)](#)
 [![HackerRank Badge](https://img.shields.io/badge/Hacker-Rank-informational?style=flat&logo=HackerRank&logoColor=FFFFFF&color=4AB197)](#)
 [![Medium Badge](https://img.shields.io/badge/Medium-Blog-informational?style=flat&logo=Medium&logoColor=FFFFFF&color=4AB197)](#)
