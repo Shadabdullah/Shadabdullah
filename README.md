@@ -32,14 +32,14 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
 #### Tech and Tools :
 
 
-![Python](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=Python&logoColor=FFFFFF&color=4AB197)
-![JavaScript](https://img.shields.io/badge/JavaScript-Language-informational?style=flat&logo=JavaScript&logoColor=FFFFFF&color=4AB197)
-![Python](https://img.shields.io/badge/HTML5-Language-informational?style=flat&logo=HTML5&logoColor=FFFFFF&color=4AB197)
-![Python](https://img.shields.io/badge/CSS3-Language-informational?style=flat&logo=CSS3&logoColor=FFFFFF&color=4AB197)
+[![Python](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=Python&logoColor=FFFFFF&color=4AB197)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Language-informational?style=flat&logo=JavaScript&logoColor=FFFFFF&color=4AB197)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-Language-informational?style=flat&logo=HTML5&logoColor=FFFFFF&color=4AB197)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-Language-informational?style=flat&logo=CSS3&logoColor=FFFFFF&color=4AB197)](#)
 
-![React](https://img.shields.io/badge/React-Js-informational?style=flat&logo=React&logoColor=FFFFFF&color=4AB197)
-![React](https://img.shields.io/badge/React-Native-informational?style=flat&logo=React&logoColor=FFFFFF&color=4AB197)
-![MySQL](https://img.shields.io/badge/MySQL-DBMS-informational?style=flat&logo=MySQL&logoColor=FFFFFF&color=4AB197)
+[![React](https://img.shields.io/badge/React-Js-informational?style=flat&logo=React&logoColor=FFFFFF&color=4AB197)](#)
+[![React](https://img.shields.io/badge/React-Native-informational?style=flat&logo=React&logoColor=FFFFFF&color=4AB197)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-DBMS-informational?style=flat&logo=MySQL&logoColor=FFFFFF&color=4AB197)](#)
 ---
 #### Stats :
 
