@@ -1,5 +1,11 @@
 
+#### Personal Proclamation 
+Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lands of India, conjuring code with passion and precision, having an insatiable appetite for knowledge, and an unwavering dedication to quality.
 
+  -♟ During my leisure hours, I indulge in the intricate game of chess and conquer perplexing challenges on Leetcode.
+ - 📙I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers .
+
+---
 
 ![GitHub watchers](https://img.shields.io/github/watchers/Shadabdullah/Shadabdullah?style=social)
 
@@ -8,7 +14,12 @@
 
 
 
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+
+
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <a href="https://github.com/Shadabdullah">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabdullah&hide=html,css&title_color=379237&text_color=379237&icon_color=379237&bg_color=0000" />
