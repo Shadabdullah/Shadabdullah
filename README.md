@@ -4,8 +4,8 @@
 #### Personal Proclamation :
 Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lands of India, conjuring code with passion and precision, having an insatiable appetite for knowledge, and an unwavering dedication to quality.
 
-  ♟ During my leisure hours, I indulge in the intricate game of chess and conquer perplexing challenges on Leetcode.
-  <br>📙I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers .<br>🗣️ On a quest to master the art of Writing .
+   🔥During my leisure hours, I indulge in the intricate game of chess and conquer perplexing challenges on Leetcode.
+  <br>🔥I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers .<br> 🔥On a quest to master the art of Writing .
 
 ---
 #### Get in touch :
