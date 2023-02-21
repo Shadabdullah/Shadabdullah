@@ -58,7 +58,6 @@ Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lan
 ---
 #### Stats :
 
-![GitHub watchers](https://img.shields.io/github/watchers/Shadabdullah/Shadabdullah?color=4AB197&logo=github)
 ![GitHub User's stars](https://img.shields.io/github/stars/Shadabdullah?color=4AB197&logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/Shadabdullah?color=4AB197&logo=github)
 
