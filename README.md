@@ -1,5 +1,5 @@
 
-### *Some links are temporarily disabled*
+### *NOTE : Some links are temporarily disabled*
 
 #### Personal Proclamation :
 
