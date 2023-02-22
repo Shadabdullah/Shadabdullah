@@ -3,16 +3,16 @@
 
 #### Personal Proclamation :
 
-Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lands of India, <br>
-conjuring code with passion and precision, having <br> an insatiable appetite for knowledge, 
-and an unwavering dedication to quality
+<p> Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lands of India, 
+conjuring code with passion and precision, having an insatiable appetite for knowledge, 
+and an unwavering dedication to quality</p> 
 
 
-   🔥Engaged in the study of data science and artificial intelligence. <br>
-   🔥Enhancing my abilities through participation in open source projects.<br>
-   🔥During my leisure hours, I indulge in the intricate game of chess and conquer perplexing challenges on Leetcode.<br>
-   🔥I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers.<br>
-   🔥On a quest to master the art of Writing .<br>
+   -  ⚡Engaged in the study of data science and artificial intelligence.
+   -  ⚡Enhancing my abilities through participation in open source projects.
+   - ⚡During my leisure hours, I indulge in the intricate game of chess and conquer perplexing challenges on Leetcode.
+   - ⚡I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers.
+   - ⚡On a quest to master the art of Writing </p> 
   
  
   
@@ -63,6 +63,9 @@ and an unwavering dedication to quality
 ---
 #### Stats :
 
+ <img src="https://komarev.com/ghpvc/?username=Shadabdullah&label=Profile%20views&color=4AB197&style=flat" alt="Shadabdullah" />
+ 
+ 
 ![GitHub User's stars](https://img.shields.io/github/stars/Shadabdullah?color=4AB197&logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/Shadabdullah?color=4AB197&logo=github)
 
