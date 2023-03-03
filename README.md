@@ -12,7 +12,7 @@ and an unwavering dedication to quality</p>
    -  ⚡Enhancing my abilities through participation in open source projects.
    - ⚡During my leisure hours, I indulge in the intricate game of chess and conquer perplexing challenges on Leetcode.
    - ⚡I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers.
-   - ⚡On a quest to master the art of Writing </p> 
+   
   
  
   
