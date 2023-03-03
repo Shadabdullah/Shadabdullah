@@ -23,8 +23,7 @@ and an unwavering dedication to quality</p>
   
  - Knowledge isn’t power until it is applied. ― **Dale Carnegie** 
   
-  - Who are those people by whom you wish to be admired? <br> Are they not these whom you are in the habit of saying that they are mad? <br>What then? Do you wish to be admired by the mad?”
-— **Epictetus**
+ 
 
 
 ---
