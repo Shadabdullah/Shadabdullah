@@ -29,7 +29,7 @@ and an unwavering dedication to quality</p>
 ---
 #### Get in touch :
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/shad-abdullah-2622561b6)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](#)
 [![Lichess Badge](https://img.shields.io/badge/Lichess-ID:ShadAbdullah-informational?style=flat&logo=Lichess&logoColor=FFFFFF&color=4AB197)](#)
 
 ---
