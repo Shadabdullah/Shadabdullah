@@ -69,9 +69,6 @@ and an unwavering dedication to quality</p>
 ![GitHub followers](https://img.shields.io/github/followers/Shadabdullah?color=4AB197&logo=github)
 
 
-<a href="https://github.com/Shadabdullah">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabdullah&hide=html,css&title_color=4AB197&text_color=FFFFFF&icon_color=4AB197&bg_color=000000" />
-</a>
 
 <br><br>
 
