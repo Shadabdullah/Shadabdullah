@@ -56,9 +56,10 @@ and an unwavering dedication to quality</p>
 [![HTML5](https://img.shields.io/badge/HTML5-Language-informational?style=flat&logo=HTML5&logoColor=FFFFFF&color=4AB197)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-Language-informational?style=flat&logo=CSS3&logoColor=FFFFFF&color=4AB197)](#)
 
-[![React](https://img.shields.io/badge/React-Js-informational?style=flat&logo=React&logoColor=FFFFFF&color=4AB197)](#)
-[![React](https://img.shields.io/badge/React-Native-informational?style=flat&logo=React&logoColor=FFFFFF&color=4AB197)](#)
+[![Golang](https://img.shields.io/badge/Go-lang-informational?style=flat&logo=Go&logoColor=FFFFFF&color=4AB197)](#)
+[![Dart](https://img.shields.io/badge/Dart-Language-informational?style=flat&logo=dart&logoColor=FFFFFF&color=4AB197)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-DBMS-informational?style=flat&logo=MySQL&logoColor=FFFFFF&color=4AB197)](#)
+[![Flutter](https://img.shields.io/badge/Flut-ter-informational?style=flat&logo=flutter&logoColor=FFFFFF&color=4AB197)](#)
 ---
 #### Stats :
 
