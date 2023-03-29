@@ -1,5 +1,5 @@
 
-### *NOTE : Some links are temporarily disabled*
+
 
 #### Personal Proclamation :
 
@@ -25,7 +25,7 @@ and an unwavering dedication to quality</p>
   
  
 
-
+<!--
 ---
 #### Get in touch :
 
@@ -44,7 +44,7 @@ and an unwavering dedication to quality</p>
 
 
 
-
+-->
 
 ---
 
