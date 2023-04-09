@@ -21,7 +21,7 @@ and an unwavering dedication to quality</p>
   
   - Those who have failed to work toward the truth have missed the purpose of living - **Buddha**
   
- - Knowledge isn’t power until it is applied. ― **Dale Carnegie** 
+  - Knowledge isn’t power until it is applied. ― **Dale Carnegie** 
   
  
 
@@ -78,5 +78,5 @@ and an unwavering dedication to quality</p>
 
 
 <a href="https://github.com/Shadabdullah">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Shadabdullah&show_icons=true&line_height=27&count_private=true&title_color=4AB197&text_color=FFFFFF&icon_color=4AB197&bg_color=000000" alt="ShadAbdullah's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Shadabdullah&show_icons=true&line_height=27&count_private=true&title_color=4AB197&text_color=FFFFFF&icon_color=4AB197&bg_color=0000" alt="ShadAbdullah's GitHub Stats" />
 </a>
