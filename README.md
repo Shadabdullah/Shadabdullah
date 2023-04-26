@@ -3,9 +3,8 @@
 
 #### Personal Proclamation :
 
-<p> Hi, I am Shad-Abudllah. an ardent software craftsman hailing from the mystic lands of India, 
-conjuring code with passion and precision, having an insatiable appetite for knowledge, 
-and an unwavering dedication to quality</p> 
+<p> Hi, I am Shad-Abudllah. An ardent software craftsman hailing from the mystic lands of India, 
+</p> 
 
 
    - ⚡Engaged in the study of data science and artificial intelligence.
