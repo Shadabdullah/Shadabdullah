@@ -75,7 +75,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shadabdullah&background=000000&border=EBEBEB&stroke=EBEBEB&ring=4AB197&fire=4AB197&currStreakNum=4AB197&sideNums=4AB197&currStreakLabel=4AB197&sideLabels=EBEBEB&dates=EBEBEB)](https://git.io/streak-stats)
 
 
-
+<!--
 <a href="https://github.com/Shadabdullah">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Shadabdullah&show_icons=true&line_height=27&count_private=true&title_color=4AB197&text_color=FFFFFF&icon_color=4AB197&bg_color=0000" alt="ShadAbdullah's GitHub Stats" />
 </a>
