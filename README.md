@@ -56,6 +56,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-Language-informational?style=flat&logo=CSS3&logoColor=FFFFFF&color=4AB197)](#)
 
 [![Golang](https://img.shields.io/badge/Go-lang-informational?style=flat&logo=Go&logoColor=FFFFFF&color=4AB197)](#)
+[![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=FFFFFF&color=4AB197)](#)
 [![Dart](https://img.shields.io/badge/Dart-Language-informational?style=flat&logo=dart&logoColor=FFFFFF&color=4AB197)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-DBMS-informational?style=flat&logo=MySQL&logoColor=FFFFFF&color=4AB197)](#)
 [![Flutter](https://img.shields.io/badge/Flut-ter-informational?style=flat&logo=flutter&logoColor=FFFFFF&color=4AB197)](#)
