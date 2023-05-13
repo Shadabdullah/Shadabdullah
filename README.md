@@ -5,6 +5,8 @@
 
 <p> Hi, I am Shad-Abudllah. An ardent software craftsman hailing from the mystic lands of India, 
 </p> 
+
+
    - ⚡Engaged in the study of data science and artificial intelligence.
    - 🆓 During my leisure hours, I indulge in the intricate game of chess and conquer perplexing challenges on Leetcode.
    - 🔭 I explore the fascinating realm of philosophy and delve into the insightful musings of great thinkers.
