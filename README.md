@@ -17,7 +17,7 @@
   --- 
   #### Some Favorite Quotes 
   
-  - Those who have failed to work toward the truth have missed the purpose of living - **Buddha**
+  - Those who have failed to work toward the truth have missed the purpose of living - ** Gautam Buddha**
   
   - Knowledge isn’t power until it is applied. ― **Dale Carnegie** 
   
