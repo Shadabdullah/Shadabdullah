@@ -1,6 +1,8 @@
 <p> Hi, I am Shad-Abudllah. An ardent software craftsman 
 </p> 
 
+![](https://leetcard.jacoblin.cool/ShadAbdullah?theme=dark&font=Cantarell&ext=contest)
+
 ## 🪪 Profile Summary
 
 <p align="center">
