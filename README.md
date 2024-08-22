@@ -22,9 +22,13 @@ I’m always learning new things and excited to connect with others who love tec
 
 
 
-![Shadabdullah's Stats](https://github-readme-stats.vercel.app/api?username=Shadabdullah&theme=dark&show_icons=true&hide_border=true&count_private=true) ![](https://leetcard.jacoblin.cool/shadabdullah?animation=false)
+![Shadabdullah's Stats](https://github-readme-stats.vercel.app/api?username=Shadabdullah&theme=dark&show_icons=true&hide_border=true&count_private=true) 
+
+![](https://github-readme-stats.vercel.app/api?username=Shadabdullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ![Shadabdullah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shadabdullah&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=Shadabdullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://leetcard.jacoblin.cool/shadabdullah?animation=false)
 
 
 
