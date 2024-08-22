@@ -8,3 +8,13 @@
 
 I’m always learning new things and excited to connect with others who love tech too!
 
+
+
+
+
+---
+
+
+
+![Shadabdullah's Stats](https://github-readme-stats.vercel.app/api?username=Shadabdullah&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Shadabdullah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shadabdullah&theme=dark&hide_border=true)
