@@ -5,7 +5,7 @@ I'm a **Linux enthusiast** and a passionate programmer with a love for **low-lev
 ## 📚 **Learning Journey**
 I’m currently focusing on:
 - **Mastering C and low-level programming**
-- **Exploring embedded systems with STM32 and RIOT OS**
+
 
 
 
